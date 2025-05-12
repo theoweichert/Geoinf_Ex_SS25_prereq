@@ -69,7 +69,9 @@ An interactive map was created where users can click on markers to access inform
 
 Here are some example screenshots of the static site:
 
-*(Include screenshots here)*
+![Generall Map](static_images/justMap.png)
+![Map with Giraffe Info](static_images/giraffe_wiki.png)
+![Kranich Info](static_images/giraffe_wiki.png)
 
 ## Running the Project
 

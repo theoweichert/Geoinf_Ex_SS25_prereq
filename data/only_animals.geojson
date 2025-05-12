@@ -1,0 +1,2983 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-04-30T13:10:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1683106201",
+        "board_type": "wildlife",
+        "description": "Pinguine",
+        "information": "board",
+        "name": "Mauser – eine anstrengende Zeit für Pinguine",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4027207,
+          48.9974976
+        ]
+      },
+      "id": "node/1683106201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1683106262",
+        "board_type": "wildlife",
+        "description": "Themenpfad Ausgestorbene Tierarten",
+        "information": "board",
+        "name": "Riesenalk",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024192,
+          48.997583
+        ]
+      },
+      "id": "node/1683106262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1683113645",
+        "board_type": "wildlife",
+        "description": "Themenpfad Ausgestorbene Tierarten",
+        "information": "board",
+        "name": "Quagga",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031838,
+          48.9979189
+        ]
+      },
+      "id": "node/1683113645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3827498007",
+        "board_type": "wildlife",
+        "check_date": "2024-12-24",
+        "description": "Lebenszyklus und Aufgaben einer Arbeitsbiene",
+        "information": "board",
+        "name": "Entwicklung der Biene",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024404,
+          48.9984394
+        ]
+      },
+      "id": "node/3827498007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3827498009",
+        "board_type": "wildlife",
+        "check_date": "2024-12-24",
+        "description": "Bienentänze – eine Sprache?",
+        "information": "board",
+        "name": "Was will die Biene \"sagen\"?",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024421,
+          48.9984553
+        ]
+      },
+      "id": "node/3827498009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3827498011",
+        "access": "private",
+        "board_type": "wildlife",
+        "entrance": "yes",
+        "information": "board",
+        "name": "Zoo-Bienenhaus",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024589,
+          48.9984668
+        ]
+      },
+      "id": "node/3827498011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6603791047",
+        "board_type": "wildlife",
+        "description": "Schildsittich; Maskenkiebitz; Jägerliest; Inka-Kakadu; Rotnackenlori",
+        "information": "board",
+        "name": "Australien-Voliere",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029334,
+          48.9976636
+        ]
+      },
+      "id": "node/6603791047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7669856537",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Sundheimer Huhn",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4010056,
+          49.0012655
+        ]
+      },
+      "id": "node/7669856537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7681254093",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Seehund",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4013103,
+          48.9976226
+        ]
+      },
+      "id": "node/7681254093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7681254095",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Erdmännchen",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031185,
+          48.9973765
+        ]
+      },
+      "id": "node/7681254095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7681254191",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Bennettkänguru",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4021041,
+          48.9977033
+        ]
+      },
+      "id": "node/7681254191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7906512415",
+        "board_type": "wildlife",
+        "check_date": "2025-02-22",
+        "description": "Verbreitung der Arten",
+        "information": "board",
+        "name": "Großbären der Welt",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4017566,
+          48.9974723
+        ]
+      },
+      "id": "node/7906512415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7906512416",
+        "board_type": "wildlife",
+        "description": "Ringeltaube; Hohltaube; Bachstelze; Eisvogel",
+        "information": "board",
+        "name": "Vogellehrpfad Lauterberg",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4014434,
+          48.9968173
+        ]
+      },
+      "id": "node/7906512416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7906512420",
+        "board_type": "wildlife",
+        "description": "Vielfalt der Vogelnester; Mit Singvögeln durchs Jahr",
+        "information": "board",
+        "name": "Vogellehrpfad Lauterberg",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4020681,
+          48.9966344
+        ]
+      },
+      "id": "node/7906512420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405424",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Zwergotter",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4015322,
+          48.9973721
+        ]
+      },
+      "id": "node/7926405424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405425",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Eisbär",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4018384,
+          48.9975085
+        ]
+      },
+      "id": "node/7926405425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405426",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Eisbär",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4021433,
+          48.9976176
+        ]
+      },
+      "id": "node/7926405426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405427",
+        "board_type": "wildlife",
+        "description": "Themenpfad Ausgestorbene Tierarten",
+        "information": "board",
+        "name": "Dodo oder Dronte",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4018799,
+          48.9977113
+        ]
+      },
+      "id": "node/7926405427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405428",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "description": "Themenpfad Ausgestorbene Tierarten",
+        "information": "board",
+        "name": "Stellersche Seekuh",
+        "tourism": "information",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.401203,
+          48.997631
+        ]
+      },
+      "id": "node/7926405428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405429",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Kalifornischer Seelöwe",
+        "tourism": "information",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4012107,
+          48.9976277
+        ]
+      },
+      "id": "node/7926405429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405430",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Persische Kropfgazelle",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4023001,
+          48.9961424
+        ]
+      },
+      "id": "node/7926405430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405431",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Uhu",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4022052,
+          48.9961355
+        ]
+      },
+      "id": "node/7926405431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405432",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Habichtskauz",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4022199,
+          48.9961462
+        ]
+      },
+      "id": "node/7926405432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405433",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Brillenkauz",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4022799,
+          48.9961767
+        ]
+      },
+      "id": "node/7926405433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405434",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Eurasischer Uhu",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4021632,
+          48.9960909
+        ]
+      },
+      "id": "node/7926405434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405435",
+        "board_type": "wildlife",
+        "description": "Nistkästen",
+        "information": "board",
+        "name": "Vogellehrpfad Lauterberg",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024066,
+          48.9970562
+        ]
+      },
+      "id": "node/7926405435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405436",
+        "board_type": "wildlife",
+        "description": "Die Turteltaube – ein hochbedrohtes Glückssymbol",
+        "information": "board",
+        "name": "Vogel des Jahres 2020",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4023919,
+          48.9970624
+        ]
+      },
+      "id": "node/7926405436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405438",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Schneeleopard",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024214,
+          48.997069
+        ]
+      },
+      "id": "node/7926405438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405441",
+        "board_type": "wildlife",
+        "description": "Kuckuck; Fitis; Gartenbaumläufer; Mönchsgrasmücke",
+        "information": "board",
+        "name": "Vogellehrpfad Lauterberg",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4026863,
+          48.9965005
+        ]
+      },
+      "id": "node/7926405441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405442",
+        "board_type": "wildlife",
+        "description": "Hausrotschwanz; Nachtigall; Gartenrotschwanz; Rotkehlchen",
+        "information": "board",
+        "name": "Vogellehrpfad Lauterberg",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4026514,
+          48.9968551
+        ]
+      },
+      "id": "node/7926405442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405444",
+        "board_type": "wildlife",
+        "description": "Haussperling; Grauschnäpper; Feldsperling; Amsel",
+        "information": "board",
+        "name": "Vogellehrpfad Lauterberg",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4019064,
+          48.9962911
+        ]
+      },
+      "id": "node/7926405444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405445",
+        "board_type": "wildlife",
+        "description": "Kohlmeise; Blaumeise; Sumpfmeise; Haubenmeise",
+        "information": "board",
+        "name": "Vogellehrpfad Lauterberg",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4016751,
+          48.996186
+        ]
+      },
+      "id": "node/7926405445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405446",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Eisbär",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4019098,
+          48.9971473
+        ]
+      },
+      "id": "node/7926405446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926405447",
+        "board_type": "wildlife",
+        "description": "Buchfink; Stieglitz; Haubenleche; Zilpzalp",
+        "information": "board",
+        "name": "Vogellehrpfad Lauterberg",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4017368,
+          48.997102
+        ]
+      },
+      "id": "node/7926405447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952930460",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Netzgiraffe",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031702,
+          48.9970102
+        ]
+      },
+      "id": "node/7952930460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952930467",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Eiderente",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4026859,
+          48.9972894
+        ]
+      },
+      "id": "node/7952930467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952930468",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Magellanpinguin",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4026903,
+          48.9972847
+        ]
+      },
+      "id": "node/7952930468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952930469",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Zwergsäger",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4027037,
+          48.9972709
+        ]
+      },
+      "id": "node/7952930469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952930470",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Schnee-Eule",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4025837,
+          48.9973043
+        ]
+      },
+      "id": "node/7952930470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952930472",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Schneeleoparden in Kirgistan",
+        "information": "board",
+        "name": "Bergwelt Himalaya",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4030484,
+          48.9968054
+        ]
+      },
+      "id": "node/7952930472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952930473",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Schneeleoparden – Lebensraum, Beutetiere, Lebensweise und Fortpflanzung",
+        "information": "board",
+        "name": "Bergwelt Himalaya",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.403051,
+          48.9967944
+        ]
+      },
+      "id": "node/7952930473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952930478",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Schneeleoparden – Mythos und Bedrohung",
+        "information": "board",
+        "name": "Bergwelt Himalaya",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4027312,
+          48.9971468
+        ]
+      },
+      "id": "node/7952930478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952930481",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Schneeleoparden – Kennzeichen/Verbreitung",
+        "information": "board",
+        "name": "Bergwelt Himalaya",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029303,
+          48.9965995
+        ]
+      },
+      "id": "node/7952930481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952930484",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Roter Panda",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4028982,
+          48.9963818
+        ]
+      },
+      "id": "node/7952930484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952932185",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Roter Panda",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4028834,
+          48.9963958
+        ]
+      },
+      "id": "node/7952932185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952932186",
+        "board_type": "wildlife",
+        "check_date": "2024-12-25",
+        "description": "Schutzmaßnahmen; Atemberaubender Lebensraum der Roten Pandas",
+        "information": "board",
+        "name": "Bergwelt Himalaya",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4028599,
+          48.9963549
+        ]
+      },
+      "id": "node/7952932186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952932187",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "description": "Ein Gesicht voller Faszination – ein Tier mit vielen Namen!; Nahrung der Roten Pandas",
+        "information": "board",
+        "name": "Bergwelt Himalaya",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4028438,
+          48.9963501
+        ]
+      },
+      "id": "node/7952932187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952932188",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Schneeleopard",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029297,
+          48.9966127
+        ]
+      },
+      "id": "node/7952932188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952932189",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Südamerikanischer Nasenbär",
+        "start_date": "2015",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4017542,
+          48.9955243
+        ]
+      },
+      "id": "node/7952932189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952932192",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Persische Kropfgazelle",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4026983,
+          48.9960909
+        ]
+      },
+      "id": "node/7952932192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952932193",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Persische Kropfgazelle",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4023846,
+          48.9958714
+        ]
+      },
+      "id": "node/7952932193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952932198",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Südamerikanischer Nasenbär",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4019862,
+          48.9955898
+        ]
+      },
+      "id": "node/7952932198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7952932215",
+        "board_type": "wildlife",
+        "check_date": "2025-02-22",
+        "description": "Freilebende Wasservögel",
+        "information": "board",
+        "name": "Wasservögel",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4009583,
+          48.99723
+        ]
+      },
+      "id": "node/7952932215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984301",
+        "board_type": "wildlife",
+        "check_date": "2024-12-24",
+        "information": "board",
+        "name": "Roter Panda",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.403115,
+          48.9963878
+        ]
+      },
+      "id": "node/7969984301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984304",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Grauhals-Kronenkranich",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4030688,
+          48.9979777
+        ]
+      },
+      "id": "node/7969984304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984307",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Sonnensittich",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.403081,
+          48.9984665
+        ]
+      },
+      "id": "node/7969984307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984308",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "description": "Wasservögel",
+        "information": "board",
+        "name": "Wasservögel im Zoologischen Stadtgarten",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4032361,
+          48.9980848
+        ]
+      },
+      "id": "node/7969984308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984309",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Wasservögel",
+        "information": "board",
+        "name": "Wasservögel im Zoologischen Stadtgarten",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4032576,
+          48.9981895
+        ]
+      },
+      "id": "node/7969984309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984318",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Rotscheitelmangabe",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4032111,
+          48.9982732
+        ]
+      },
+      "id": "node/7969984318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984326",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Saruskranich",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029649,
+          48.9984097
+        ]
+      },
+      "id": "node/7969984326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984327",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Schimpanse",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031109,
+          48.9985836
+        ]
+      },
+      "id": "node/7969984327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984328",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Schimpanse",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031774,
+          48.9986424
+        ]
+      },
+      "id": "node/7969984328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984330",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Schimpanse",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031402,
+          48.9988069
+        ]
+      },
+      "id": "node/7969984330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984334",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Heimische Wildtiere",
+        "information": "board",
+        "name": "Singvögel",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031054,
+          48.9988144
+        ]
+      },
+      "id": "node/7969984334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984335",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Hyazinthara",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4030927,
+          48.9988602
+        ]
+      },
+      "id": "node/7969984335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984336",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Heimische Wildtiere",
+        "information": "board",
+        "name": "Eichhörnchen",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4030199,
+          48.998883
+        ]
+      },
+      "id": "node/7969984336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984338",
+        "board_type": "wildlife",
+        "fixme": "not sure where they are now?",
+        "information": "board",
+        "name": "Zebramanguste",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4015168,
+          48.9972762
+        ]
+      },
+      "id": "node/7969984338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984344",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Saruskranich",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4027037,
+          48.9985463
+        ]
+      },
+      "id": "node/7969984344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984346",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Chinaleopard",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024737,
+          48.9985362
+        ]
+      },
+      "id": "node/7969984346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984350",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Zwergesel",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4020366,
+          48.998406
+        ]
+      },
+      "id": "node/7969984350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984351",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Alpaka",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4020331,
+          48.9984048
+        ]
+      },
+      "id": "node/7969984351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7969984352",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Shetlandpony",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4020295,
+          48.9984035
+        ]
+      },
+      "id": "node/7969984352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7971034914",
+        "board_type": "wildlife",
+        "description": "Lebensraum Regenwald/Savanne",
+        "information": "board",
+        "name": "Asiatischer/Afrikanischer Elefant, Hand aufs Herz",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4016831,
+          48.9979942
+        ]
+      },
+      "id": "node/7971034914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7971034915",
+        "board_type": "wildlife",
+        "description": "Herden und Territorien",
+        "information": "board",
+        "name": "Flusspferde",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4014847,
+          48.9981627
+        ]
+      },
+      "id": "node/7971034915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7971034916",
+        "board_type": "wildlife",
+        "description": "Nächtliche Weidegänger",
+        "information": "board",
+        "name": "Flusspferde",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4014749,
+          48.9981788
+        ]
+      },
+      "id": "node/7971034916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7971034917",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Asiatischer Elefant",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4015141,
+          48.9981578
+        ]
+      },
+      "id": "node/7971034917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7971034918",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Wissenswertes über Elefanten",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4016335,
+          48.997891
+        ]
+      },
+      "id": "node/7971034918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7971034919",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Flusspferd",
+        "tourism": "information",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4015061,
+          48.9982238
+        ]
+      },
+      "id": "node/7971034919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7971034925",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Asiatischer Elefant",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4009425,
+          48.9981433
+        ]
+      },
+      "id": "node/7971034925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7971034930",
+        "board_type": "wildlife",
+        "description": "Wasservögel",
+        "information": "board",
+        "name": "Freilebende Wasservögel",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3998499,
+          49.0012314
+        ]
+      },
+      "id": "node/7971034930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7971034964",
+        "board_type": "wildlife",
+        "check_date": "2024-12-25",
+        "information": "board",
+        "name": "Kubaflamingo",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4002662,
+          48.9955766
+        ]
+      },
+      "id": "node/7971034964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7971034965",
+        "board_type": "wildlife",
+        "check_date": "2024-12-25",
+        "information": "board",
+        "name": "Jungfernkranich",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4003856,
+          48.9955683
+        ]
+      },
+      "id": "node/7971034965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125607",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Lebensraum Wasser",
+        "information": "board",
+        "name": "Tiere der Arktis (nördliche Hemisphäre)",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4027714,
+          48.997486
+        ]
+      },
+      "id": "node/7983125607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125608",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Bennettkänguru",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.402996,
+          48.9976675
+        ]
+      },
+      "id": "node/7983125608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125609",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Parmakänguru",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029863,
+          48.9976664
+        ]
+      },
+      "id": "node/7983125609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125612",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Textorweber",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4033608,
+          48.9974106
+        ]
+      },
+      "id": "node/7983125612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125613",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Graupapagei",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4032308,
+          48.99746
+        ]
+      },
+      "id": "node/7983125613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125616",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Graskarpfen",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4027973,
+          48.9974267
+        ]
+      },
+      "id": "node/7983125616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125617",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Sibirischer Stör",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.402795,
+          48.9974281
+        ]
+      },
+      "id": "node/7983125617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125625",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Graskarpfen",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029002,
+          48.9973757
+        ]
+      },
+      "id": "node/7983125625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125626",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Lebensraum Wasser",
+        "information": "board",
+        "name": "Pinguine – Verbreitung (südliche Hemisphäre)",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4027711,
+          48.9974766
+        ]
+      },
+      "id": "node/7983125626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125627",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Sibirischer Stör",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029025,
+          48.9973748
+        ]
+      },
+      "id": "node/7983125627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125628",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Lebensraum Wasser",
+        "information": "board",
+        "name": "Pinguine – meisterhafte Anpassungen",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029236,
+          48.9973799
+        ]
+      },
+      "id": "node/7983125628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125629",
+        "board_type": "wildlife",
+        "check_date": "2024-12-24",
+        "information": "board",
+        "name": "Zwergsäger",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029751,
+          48.9972887
+        ]
+      },
+      "id": "node/7983125629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125630",
+        "board_type": "wildlife",
+        "check_date": "2024-12-24",
+        "information": "board",
+        "name": "Magellanpinguin",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029792,
+          48.9972779
+        ]
+      },
+      "id": "node/7983125630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7983125631",
+        "board_type": "wildlife",
+        "check_date": "2024-12-24",
+        "information": "board",
+        "name": "Eiderente",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029738,
+          48.9972936
+        ]
+      },
+      "id": "node/7983125631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8001541718",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Parmakänguru",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4020412,
+          48.9977123
+        ]
+      },
+      "id": "node/8001541718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8001541719",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Albinismus",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4021067,
+          48.9977014
+        ]
+      },
+      "id": "node/8001541719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8001541720",
+        "board_type": "wildlife",
+        "check_date": "2024-10-19",
+        "information": "board",
+        "name": "Albinismus",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024286,
+          48.9976433
+        ]
+      },
+      "id": "node/8001541720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8001541722",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Bennettkänguru",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024519,
+          48.9976392
+        ]
+      },
+      "id": "node/8001541722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8001541723",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Parmakänguru",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024207,
+          48.9976447
+        ]
+      },
+      "id": "node/8001541723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8001541724",
+        "board_type": "wildlife",
+        "description": "Themenpfad Ausgestorbene Tierarten",
+        "information": "board",
+        "name": "Beutelwolf",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024605,
+          48.9976377
+        ]
+      },
+      "id": "node/8001541724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8001541726",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Humboldt- und Magellanpinguin",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024284,
+          48.9975786
+        ]
+      },
+      "id": "node/8001541726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8001541728",
+        "board_type": "wildlife",
+        "description": "Humboldtpinguine leben nicht in der Antarktis…",
+        "information": "board",
+        "name": "Humboldtpinguine",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4024924,
+          48.9975509
+        ]
+      },
+      "id": "node/8001541728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004872503",
+        "board_type": "wildlife",
+        "check_date": "2024-12-25",
+        "information": "board",
+        "name": "Ouessantschaf",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4006159,
+          49.0011049
+        ]
+      },
+      "id": "node/8004872503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004872504",
+        "board_type": "wildlife",
+        "check_date": "2024-12-25",
+        "information": "board",
+        "name": "Westafrikanische Zwergziege",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4006064,
+          49.0011174
+        ]
+      },
+      "id": "node/8004872504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004872516",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Hausmeerschweinchen",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4010314,
+          49.0013659
+        ]
+      },
+      "id": "node/8004872516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004872517",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Hühnerhaltung",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.400961,
+          49.001388
+        ]
+      },
+      "id": "node/8004872517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004872518",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Kükenkindergarten",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4009695,
+          49.0014214
+        ]
+      },
+      "id": "node/8004872518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004872529",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Küken – Brutkasten",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4009604,
+          49.0014286
+        ]
+      },
+      "id": "node/8004872529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004872530",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Mangalitza-Schwein",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4008761,
+          49.0014379
+        ]
+      },
+      "id": "node/8004872530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004872533",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Kinderturn-Welt",
+        "information": "board",
+        "name": "Rosi, die Zwergziege",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4004778,
+          49.0014726
+        ]
+      },
+      "id": "node/8004872533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004872534",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Mangalitza-Schwein",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4007731,
+          49.0013821
+        ]
+      },
+      "id": "node/8004872534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004872537",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Sundheimer Huhn",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4008048,
+          49.0012047
+        ]
+      },
+      "id": "node/8004872537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071007998",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Goldkopflöwenäffchen",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4032961,
+          48.9984297
+        ]
+      },
+      "id": "node/8071007998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071008002",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Gebirgsara",
+        "start_date": "2020-10",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4032375,
+          48.9984304
+        ]
+      },
+      "id": "node/8071008002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071008003",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Gelbbrustara",
+        "start_date": "2020-10",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031848,
+          48.9984352
+        ]
+      },
+      "id": "node/8071008003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071008005",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Hellroter Ara",
+        "start_date": "2020-10",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031778,
+          48.9984363
+        ]
+      },
+      "id": "node/8071008005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071008006",
+        "board_type": "wildlife",
+        "description": "Themenpfad Ausgestorbene Tierarten",
+        "information": "board",
+        "name": "Kuba-Ara",
+        "start_date": "2020-10",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031322,
+          48.9984491
+        ]
+      },
+      "id": "node/8071008006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071008009",
+        "board_type": "wildlife",
+        "check_date": "2024-12-25",
+        "description": "Wasservögel",
+        "information": "board",
+        "name": "Freilebende Wasservögel",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4008013,
+          48.995746
+        ]
+      },
+      "id": "node/8071008009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072903760",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Fehlohkaninchen",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4010525,
+          49.000705
+        ]
+      },
+      "id": "node/8072903760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072903761",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Fehlohkaninchen",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4011325,
+          49.0006968
+        ]
+      },
+      "id": "node/8072903761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072903765",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Alpaka",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4009315,
+          49.0008075
+        ]
+      },
+      "id": "node/8072903765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072903768",
+        "board_type": "wildlife",
+        "check_date": "2024-12-25",
+        "information": "board",
+        "name": "Shetlandpony",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4007152,
+          49.0009832
+        ]
+      },
+      "id": "node/8072903768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072903769",
+        "board_type": "wildlife",
+        "check_date": "2024-12-25",
+        "information": "board",
+        "name": "Zwergesel",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4007028,
+          49.0009973
+        ]
+      },
+      "id": "node/8072903769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8095096206",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Hellroter Ara",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4018917,
+          49.00065
+        ]
+      },
+      "id": "node/8095096206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8095096207",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Strahlenschildkröte",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4018796,
+          49.0006522
+        ]
+      },
+      "id": "node/8095096207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8095096208",
+        "board_type": "wildlife",
+        "check_date": "2025-02-22",
+        "information": "board",
+        "name": "Seychellen-Riesenschildkröte",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4018719,
+          49.0006533
+        ]
+      },
+      "id": "node/8095096208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8095096210",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Griechische Landschildkröte",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4017978,
+          49.0007463
+        ]
+      },
+      "id": "node/8095096210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8095190249",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Kinderturn-Welt",
+        "information": "board",
+        "name": "Valentina, die Alpaka-Stute",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4012204,
+          49.0005629
+        ]
+      },
+      "id": "node/8095190249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8147657390",
+        "board_type": "wildlife",
+        "check_date": "2024-12-24",
+        "information": "board",
+        "name": "Blauer Pfau",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4017639,
+          48.9983707
+        ]
+      },
+      "id": "node/8147657390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8147657394",
+        "board_type": "wildlife",
+        "check_date": "2024-12-24",
+        "information": "board",
+        "name": "Zwergflamingo",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4017173,
+          48.9985164
+        ]
+      },
+      "id": "node/8147657394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150032210",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "information": "board",
+        "name": "Erdmännchen",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031436,
+          48.9974906
+        ]
+      },
+      "id": "node/8150032210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150032213",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "description": "Kinderturn-Welt",
+        "information": "board",
+        "name": "Leon, der Katta",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4030614,
+          48.9980375
+        ]
+      },
+      "id": "node/8150032213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150032214",
+        "board_type": "wildlife",
+        "check_date": "2025-01-01",
+        "fixme": "Check exact location",
+        "information": "board",
+        "name": "Blauer Pfau",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029884,
+          48.9981587
+        ]
+      },
+      "id": "node/8150032214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9005235894",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Jenny",
+        "support": "wall_mounted",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4014439,
+          48.9987203
+        ]
+      },
+      "id": "node/9005235894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9005235895",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Asiatischer Elefant",
+        "support": "wall_mounted",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.401478,
+          48.9986384
+        ]
+      },
+      "id": "node/9005235895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9064097451",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Schwalbenhaus im Zoo Karlsruhe",
+        "start_date": "2021-04",
+        "support": "pole",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4009911,
+          49.0007587
+        ]
+      },
+      "id": "node/9064097451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9163144849",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Separationsgehege der Luchse",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4020653,
+          48.9960399
+        ]
+      },
+      "id": "node/9163144849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9163144850",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Südamerikanischer Nasenbär",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.401943,
+          48.9959026
+        ]
+      },
+      "id": "node/9163144850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9163144851",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Karpatenluchs",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4017824,
+          48.9958292
+        ]
+      },
+      "id": "node/9163144851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9163144852",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Lebensraum der Luchse",
+        "start_date": "2021-10",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4015949,
+          48.99577
+        ]
+      },
+      "id": "node/9163144852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9163144853",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Wer hört besser?",
+        "start_date": "2021-10",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.40154,
+          48.9957638
+        ]
+      },
+      "id": "node/9163144853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9163144854",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Luchse und ihre Merkmale",
+        "start_date": "2021-10",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4015996,
+          48.9957308
+        ]
+      },
+      "id": "node/9163144854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9163144870",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Südamerikanischer Nasenbär",
+        "start_date": "2015",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4016892,
+          48.9956904
+        ]
+      },
+      "id": "node/9163144870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10031081957",
+        "board_type": "wildlife",
+        "information": "board",
+        "level": "1",
+        "name": "Fächertaube",
+        "name:en": "Victoria crowned pigeon",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4020479,
+          49.0004802
+        ]
+      },
+      "id": "node/10031081957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10820365472",
+        "board_type": "wildlife",
+        "information": "board",
+        "level": "0",
+        "name": "Goldsittich",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4021066,
+          49.0007675
+        ]
+      },
+      "id": "node/10820365472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11165558716",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Etruskerspitzmaus",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4012225,
+          48.9985021
+        ]
+      },
+      "id": "node/11165558716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11165558784",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Kalifornischer Seelöwe",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4012748,
+          48.9974297
+        ]
+      },
+      "id": "node/11165558784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11165570722",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Textorweber",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4033729,
+          48.9974139
+        ]
+      },
+      "id": "node/11165570722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11165570723",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Zwergflamingo",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4014833,
+          48.9984293
+        ]
+      },
+      "id": "node/11165570723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11165570733",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Flusspferd",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4012624,
+          48.9984405
+        ]
+      },
+      "id": "node/11165570733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11165570736",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Grünzügelpapagei",
+        "tourism": "information",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4031757,
+          48.9984367
+        ]
+      },
+      "id": "node/11165570736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11165570743",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Maurische Bachschildkröte",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4016561,
+          48.9985827
+        ]
+      },
+      "id": "node/11165570743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11165570744",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Europäische Sumpfschildkröte",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4016531,
+          48.9985827
+        ]
+      },
+      "id": "node/11165570744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12466852097",
+        "board_type": "wildlife",
+        "information": "board",
+        "name": "Gefährdete Schweinerassen",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4008972,
+          49.0014325
+        ]
+      },
+      "id": "node/12466852097"
+    }
+  ]
+}

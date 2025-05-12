@@ -1,4 +1,4 @@
-# Karlsruhe Zoo Mapis part of the prerequisite for the course Geoinformatics B. The exercise involved creating a map of the "Karlsruhe Zoo" with specific geographical and informational elements.
+# Karlsruhe Zoo Map is part of the prerequisite for the course Geoinformatics B. The exercise involved creating a map of the "Karlsruhe Zoo" with specific geographical and informational elements.
 
 ## Project Description
 

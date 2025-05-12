@@ -71,7 +71,7 @@ Here are some example screenshots of the static site:
 
 ![Generall Map](static_images/justMap.png)
 ![Map with Giraffe Info](static_images/giraffe_wiki.png)
-![Kranich Info](static_images/giraffe_wiki.png)
+![Kranich Info](static_images/kranich.png)
 
 ## Running the Project
 

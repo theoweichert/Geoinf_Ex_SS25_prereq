@@ -120,11 +120,11 @@ function loadGeoJSONLayer(url, color) {
                     })
                         .then(setPopupFromSummary)
                         .catch(() => {
-                        layer.setPopupContent("❌ Could not fetch Wikipedia summary.");
+                        layer.setPopupContent("Could not fetch Wikipedia summary.");
                     });
                 }
                 else {
-                    layer.setPopupContent("❌ No name or Wikipedia tag found.");
+                    layer.setPopupContent("No name or Wikipedia tag found.");
                 }
             }
         });
@@ -244,7 +244,7 @@ function addLegendToMap(map, legendItems) {
     });
     map.addControl(new legend());
 }
-// Define the items for the legend with strict type checking
+// Define legend items
 const legendItems = [
     { color: "#e74c3c", name: "Zoo Begrenzung", type: 'line' },
     { color: "#3498db", name: "Stadtgartengewässer", type: 'fill' },

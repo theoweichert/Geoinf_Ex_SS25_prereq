@@ -150,10 +150,10 @@ function loadGeoJSONLayer(url: string, color: string) {
                 })
                 .then(setPopupFromSummary)
                 .catch(() => {
-                  layer.setPopupContent("❌ Could not fetch Wikipedia summary.");
+                  layer.setPopupContent("Could not fetch Wikipedia summary.");
                 });
             } else {
-              layer.setPopupContent("❌ No name or Wikipedia tag found.");
+              layer.setPopupContent("No name or Wikipedia tag found.");
             }
           }
       });
